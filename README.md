@@ -2,9 +2,11 @@
 
 <p align="center">
     <b>Hey there 👋</b><br><br>
-    <i>My name is José Antonio, I work as a developer, and I previously had positions as a SAST engine core developer and as backend developer for a platform specializing in real estate analytics. 
-    <br>I currently employed by a platform that aims to protect the integrity and security of your software assets, pipelines and infrastructure of the entire software supply chain!.<br>
-Open to collaborating on interesting and innovative projects :).<br>
+    <i>I’m a developer with experience working on a SAST engine core and building backend systems for a real estate analytics platform.
+<br>
+Right now, I’m part of a team focused on keeping software assets, pipelines, and the whole software supply chain secure and reliable.
+<br>
+Always up for collaborating on cool and innovative projects! 🚀<br>
 </i><br>
 </p>
 
